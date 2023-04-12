@@ -1,4 +1,4 @@
-# NETFLIX-DATA-ANALYSIS
+# RETAIL STORE ANALYSIS
 Its an analysis of Netflix using Python &amp; its library Numpy, Pandas, Seaborn, Matplotlib. Along with business insight &amp; Recommendation to increase Profit
 
 # Created Dashboard using Tableau for above 
